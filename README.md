@@ -1,9 +1,12 @@
 - 👋 Hi, I’m @Misterguruman,
+- 🏢 I currently work at Tanium as a Senior Enterprise Services Engineer
 - 👀 I’m interested in Automation, Scripting, and Hacking!
-- 🌱 I’m currently learning Typescript
-- 💞️ I’m looking to collaborate on Python projects!
+- 🌱 I’m currently learning low-level architecture design.
+- 💞️ I’m looking to collaborate on Python, and Typescript projects!
 - 📫 How to reach me joseph.p.langford@gmail.com
-- 👶 Dad to the coolest little guy
+- 👶 Dad to the coolest little guy, and he's getting bigger every day 🥺
+- Lots of my code is for work, so you can't find it here, but reach out and let's work on something cool!
+
 - I keep all my one-offs in my gists [here](https://gist.github.com/Misterguruman)
 
 <!---
